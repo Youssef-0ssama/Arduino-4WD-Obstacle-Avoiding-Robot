@@ -22,8 +22,13 @@ This project is an autonomous Arduino robot designed to detect obstacles and avo
 ## Software
 - Arduino IDE
 - C/C++
-## Project Photos
 
+## Libraries
+- Adafruit Motor Shield V1 Library 
+- Ultrasonic Sensor Library (https://bitbucket.org/teckel12/arduino-new-ping/downloads/)
+
+## Robot
 ![My Arduino Robot](images/Picture1.jpg)
 
-![Robot Wiring](images/Picture2.jpg)
+## Wiring
+![Robot Wiring](images/Picture2.png)
