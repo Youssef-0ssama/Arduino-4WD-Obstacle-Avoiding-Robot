@@ -22,3 +22,8 @@ This project is an autonomous Arduino robot designed to detect obstacles and avo
 ## Software
 - Arduino IDE
 - C/C++
+## Project Photos
+
+![My Arduino Robot](images/Picture1.jpg)
+
+![Robot Wiring](images/Picture2.jpg)
