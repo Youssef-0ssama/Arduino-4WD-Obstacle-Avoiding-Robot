@@ -8,6 +8,7 @@ This project is an autonomous Arduino robot designed to detect obstacles and avo
 - Arduino UNO R3 board
 - Ultrasonic sensor (HC-SR04)
 - L293 Motor Shield driver
+- 4x wheels
 - 4x DC motors
 - Robot platform 4WD
 - 2x 9v Batteries
